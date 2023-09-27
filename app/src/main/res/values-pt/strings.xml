@@ -1,0 +1,237 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">QuizAppProjeto</string>
+    <!-- TODO: Remova ou altere este texto de espaço reservado -->
+    <string name="hello_blank_fragment">Olá fragmento em branco</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="lets_rockin">Vamos começar</string>
+    <string name="test_your_knowledge_of_the_arts_with_our_app">Teste os seus conhecimentos sobre as artes com o nosso aplicativo</string>
+    <string name="you_re_nail_it_lets_dive_back_in">Você acertou em cheio. Vamos mergulhar novamente</string>
+    <string name="your_quiz">O seu questionário</string>
+    <string name="all_quiz">Todos os questionários</string>
+    <string name="ceramics">Cerâmica</string>
+    <string name="start_quiz">Iniciar o questionário</string>
+    <string name="broaden_your_art_knowledge_here">Amplie o seu conhecimento artístico aqui!</string>
+    <string name="discover_your_artistic_side_with_every_answer">Descubra o seu lado artístico com cada resposta</string>
+    <string name="this_is_your_chance_to_test_your_knowledge_of_the_world_s_greatest_artists_and_masterpieces_from_painting_to_sculpture_from_ancient_to_contemporary_we_ve_got_it_all_covered_get_ready_to_unleash_your_inner_artist_and_discover_your_hidden_talent_for_art_good_luck">Esta é a sua oportunidade de testar o seu conhecimento sobre os maiores artistas e obras-primas do mundo, da pintura à escultura, do antigo ao contemporâneo, temos tudo coberto. Prepare-se para libertar o seu artista interior e descobrir o seu talento oculto para a arte. Boa sorte!</string>
+    <string name="_1_5">1/5</string>
+    <string name="qestions">Perguntas</string>
+    <string name="answer2">Resposta 2</string>
+    <string name="answer3">Resposta 3</string>
+    <string name="answer1">Resposta 1</string>
+    <string name="answer4">Resposta 4</string>
+    <string name="next_questions">Próximas perguntas</string>
+    <string name="result">Resultado</string>
+    <string name="restart">Reiniciar</string>
+    <string name="menu">Menu</string>
+    <string name="_4_5">4/5</string>
+    <string name="art">Arte</string>
+    <string name="language">Linguagem</string>
+    <string name="science">Ciência</string>
+    <string name="history">História</string>
+    <string name="music">Música</string>
+    <string name="paiting">Pintura</string>
+    <string name="sculpture">Escultura</string>
+    <string name="photography">Fotografia</string>
+    <string name="english">Inglês</string>
+    <string name="spanish">Espanhol</string>
+    <string name="sociology">Sociologia</string>
+    <string name="economics">Economia</string>
+    <string name="political_science">Ciência Política</string>
+    <string name="worl_wars">Guerras mundiais</string>
+    <string name="ancient_civilizations">Civilizações antigas</string>
+    <string name="classical_music">Música clássica</string>
+    <string name="pop_music">Música pop</string>
+    <string name="hip_hop_music">Música hip-hop</string>
+    <string name="hip_hop_questions">Quem é considerado um dos pioneiros do hip-hop e é conhecido pela música Rappers Delight?</string>
+    <string name="hip_hop_answer1">Run-D.M.C.</string>
+    <string name="hip_hop_answer2">Grand Master Flash e os Cinco Furiosos</string>
+    <string name="hip_hop_answer3">A gangue Sugarhill</string>
+    <string name="hip_hop_answer4">NWA</string>
+    <string name="hip_hop_answer5">Tupac Shakur</string>
+    <string name="hip_hop_answer6">Jay-Z</string>
+    <string name="hip_hop_answer7">Eminem</string>
+    <string name="hip_hop_answer8">Nas</string>
+    <string name="hip_hop_answer9">Coçar</string>
+    <string name="hip_hop_answer10">Breakdance</string>
+    <string name="hip_hop_answer11">Grafite</string>
+    <string name="hip_hop_answer12">Beatbox</string>
+    <string name="hip_hop_answer13">Cubo de gelo</string>
+    <string name="hip_hop_answer14">Snoop Dogg</string>
+    <string name="hip_hop_answer15">Dr. Dre</string>
+    <string name="hip_hop_answer16">The Notorious B.I.G.</string>
+    <string name="hip_hop_question2">Qual rapper lançou o álbum The Marshall Mathers LP?</string>
+    <string name="hip_hop_question3">Qual é o termo para a percussão vocal envolvendo sons, batidas e ritmos na música hip-hop?</string>
+    <string name="hip_hop_question4">Quem é conhecido pelo álbum de sucesso The Chronic e sua associação com a Death Row Records?</string>
+    <string name="pop_music_question1">Quem é frequentemente referido como o "Rei do Pop"?</string>
+    <string name="pop_music_question2">Qual artista feminina lançou o single de sucesso Umbrella com Jay-Z?</string>
+    <string name="pop_music_question3">Qual banda britânica é conhecida pela música Yellow?</string>
+    <string name="pop_music_question4">Quem cantou o hino pop I Will Always Love You?</string>
+    <string name="classic_music_question1">Quem compôs a famosa composição Sonata ao Luar?</string>
+    <string name="classic_music_question2">Qual compositor é conhecido por As Quatro Estações?</string>
+    <string name="classic_music_question3">Que instrumento musical Yo-Yo Ma é famoso por tocar?</string>
+    <string name="classic_music_question4">Qual compositor está associado à ópera A Flauta Mágica?</string>
+    <string name="ancient_question1">Qual civilização antiga era conhecida como "A Terra dos Faraós'?</string>
+    <string name="ancient_question2">Que civilização antiga construiu a Grande Muralha da China?</string>
+    <string name="ancient_question3">Qual imperador romano é famoso por sua ligação com o incêndio de Roma e a perseguição aos cristãos?</string>
+    <string name="ancient_question4">Qual das seguintes civilizações antigas foi conhecida por criar o primeiro código de leis escrito, o Código de Hamurabi?</string>
+    <string name="pop_music_answer1">Michael Jackson</string>
+    <string name="pop_music_answer2">Madonna</string>
+    <string name="pop_music_answer3">Lady Gaga</string>
+    <string name="pop_music_answer4">Beyoncé</string>
+    <string name="classic_music_answer1">Ludwig van Beethoven</string>
+    <string name="classic_music_answer2">Antonio Vivaldi</string>
+    <string name="classic_music_answer3">Violoncelo</string>
+    <string name="classic_music_answer4">Wolfgang Amadeus Mozart</string>
+    <string name="ancient_answer1" tools:ignore="ExtraTranslation">Egito</string>
+    <string name="ancient_answer2" tools:ignore="ExtraTranslation">China</string>
+    <string name="ancient_answer3" tools:ignore="ExtraTranslation">Nero</string>
+    <string name="ancient_answer4" tools:ignore="ExtraTranslation">Babilônia</string>
+    <string name="history_question1" tools:ignore="ExtraTranslation">Quem foi o primeiro presidente dos Estados Unidos da América?</string>
+    <string name="history_question2" tools:ignore="ExtraTranslation">Qual era o nome da nave em que Cristóvão Colombo navegou para as Américas?</string>
+    <string name="history_question3" tools:ignore="ExtraTranslation">Quem liderou a Revolução Russa em 1917?</string>
+    <string name="history_question4" tools:ignore="ExtraTranslation">Qual foi a causa principal da Revolução Francesa?</string>
+    <string name="economics_question1" tools:ignore="ExtraTranslation">O que representa o termo "PIB"?</string>
+    <string name="economics_question2" tools:ignore="ExtraTranslation">Qual é a principal teoria econômica associada a John Maynard Keynes?</string>
+    <string name="economics_question3" tools:ignore="ExtraTranslation">Qual é o nome dado ao período de declínio econômico prolongado com alta taxa de desemprego e deflação?</string>
+    <string name="economics_question4" tools:ignore="ExtraTranslation">O que é uma moeda fiduciária?</string>
+    <string name="political_science_question1">O que é uma monarquia absoluta?</string>
+    <string name="political_science_question2">Qual é o sistema de governo em que o poder é exercido por uma única pessoa com autoridade total?</string>
+    <string name="political_science_question3">Qual é o órgão das Nações Unidas responsável por manter a paz e a segurança internacional?</string>
+    <string name="political_science_question4">Que sistema político envolve a eleição de representantes do povo para tomar decisões em nome da população?</string>
+    <string name="history_answer1" tools:ignore="ExtraTranslation">George Washington</string>
+    <string name="history_answer2" tools:ignore="ExtraTranslation">Santa Maria</string>
+    <string name="history_answer3" tools:ignore="ExtraTranslation">Vladimir Lenin</string>
+    <string name="history_answer4" tools:ignore="ExtraTranslation">Desigualdade social</string>
+    <string name="economics_answer1" tools:ignore="ExtraTranslation">Produto Interno Bruto</string>
+    <string name="economics_answer2" tools:ignore="ExtraTranslation">Keynesianismo</string>
+    <string name="economics_answer3" tools:ignore="ExtraTranslation">Depressão econômica</string>
+    <string name="economics_answer4" tools:ignore="ExtraTranslation">Moeda sem valor intrínseco</string>
+    <string name="political_science_answer1">Um sistema em que um monarca tem poder absoluto sobre o governo e o país.</string>
+    <string name="political_science_answer2">Ditadura</string>
+    <string name="political_science_answer3">Conselho de Segurança</string>
+    <string name="political_science_answer4">Democracia representativa</string>
+    <string name="english_question1">Qual é a língua oficial do Reino Unido?</string>
+    <string name="english_question2">Quem é o autor de Romeu e Julieta?</string>
+    <string name="english_answer1">Inglês</string>
+    <string name="english_answer2">William Shakespeare</string>
+    <string name="sociology_question1">O que é a socialização?</string>
+    <string name="sociology_question2">Qual é o conceito de cultura?</string>
+    <string name="sociology_answer1">Processo pelo qual os indivíduos aprendem e internalizam normas e valores da sociedade.</string>
+    <string name="sociology_answer2">O conjunto de padrões de comportamento, crenças, valores e símbolos compartilhados por um grupo ou sociedade.</string>
+    <string name="spain_answer1">26 letras</string>
+    <string name="spain_answer2">27 letras</string>
+    <string name="spain_answer3">28 letras</string>
+    <string name="spain_answer4">29 letras</string>
+    <string name="spain_answer5">Estar</string>
+    <string name="spain_answer6">Tener</string>
+    <string name="spain_answer7">Hacer</string>
+    <string name="spain_answer8">Ser</string>
+    <string name="spain_answer9">Hello</string>
+    <string name="spain_answer10">Goodbye</string>
+    <string name="spain_answer11">Thank you</string>
+    <string name="spain_answer12">Yes</string>
+    <string name="spain_answer13">Spain</string>
+    <string name="spain_answer14">Argentina</string>
+    <string name="spain_answer15">Mexico</string>
+    <string name="spain_answer16">Colombia</string>
+    <string name="art_sculpture_answer1">Pablo Picasso</string>
+    <string name="art_sculpture_answer2">Leonardo da Vinci</string>
+    <string name="art_sculpture_answer3">Vincent van Gogh</string>
+    <string name="art_sculpture_answer4">Rembrandt</string>
+    <string name="art_sculpture_answer5">Impressionism</string>
+    <string name="art_sculpture_answer6">Realism</string>
+    <string name="art_sculpture_answer7">Baroque</string>
+    <string name="art_sculpture_answer8">Abstract Expressionism</string>
+    <string name="sociology_answer3">Sociology</string>
+    <string name="sociology_answer4">Economics</string>
+    <string name="sociology_answer5">Max Weber</string>
+    <string name="sociology_answer6">Karl Marx</string>
+    <string name="sociology_answer7">Émile Durkheim</string>
+    <string name="sociology_answer8">Auguste Comte</string>
+    <string name="sociology_answer9">Conflict theory</string>
+    <string name="sociology_answer10">Functionalism</string>
+    <string name="sociology_answer11">Symbolic interactionism</string>
+    <string name="sociology_answer12">Structuralism</string>
+    <string name="sociology_answer13">Socialization</string>
+    <string name="sociology_answer14">Assimilation</string>
+    <string name="sociology_answer15">Acculturation</string>
+    <string name="sociology_answer16">Social change</string>
+    <string name="economic_answer1">Psychology</string>
+    <string name="economic_answer2">Sociology</string>
+    <string name="economic_answer3">Economics</string>
+    <string name="economic_answer4">Anthropology</string>
+    <string name="economic_answer5">John Maynard Keynes</string>
+    <string name="economic_answer6">Karl Marx</string>
+    <string name="economic_answer7">Adam Smith</string>
+    <string name="economic_answer8">Milton Friedman</string>
+    <string name="economic_answer9">Socialism</string>
+    <string name="economic_answer10">Communism</string>
+    <string name="economic_answer11">Capitalism</string>
+    <string name="economic_answer12">Fascism</string>
+    <string name="economic_answer13">Budget deficit</string>
+    <string name="economic_answer14">Gross Domestic Product (GDP)</string>
+    <string name="economic_answer15">Inflation rate</string>
+    <string name="economic_answer16">Consumer price index</string>
+    <string name="world_war_answer1">Assassination of Archduke Franz Ferdinand</string>
+    <string name="world_war_answer2">Treaty of Versailles</string>
+    <string name="world_war_answer3">Invasion of Poland</string>
+    <string name="world_war_answer4">Sinking of the Lusitania</string>
+    <string name="world_war_answer5">The Cold War</string>
+    <string name="world_war_answer6">The Great War</string>
+    <string name="world_war_answer7">The Vietnam War</string>
+    <string name="world_war_answer8">The Korean War</string>
+    <string name="classic_music_answer5">Antonio Vivaldi</string>
+    <string name="classic_music_answer6">Pyotr Ilyich Tchaikovsky</string>
+    <string name="classic_music_answer7">Johannes Brahms</string>
+    <string name="classic_music_answer8">Igor Stravinsky</string>
+    <string name="classic_music_answer9">Violin</string>
+    <string name="classic_music_answer10">Flute</string>
+    <string name="classic_music_answer11">Cello</string>
+    <string name="classic_music_answer12">Piano</string>
+    <string name="classic_music_answer13">Richard Wagner</string>
+    <string name="classic_music_answer14">Giuseppe Verdi</string>
+    <string name="classic_music_answer15">Wolfgang Amadeus Mozart</string>
+    <string name="classic_music_answer16">Giacomo Puccini</string>
+    <string name="pop_music_answer5">Beyoncé</string>
+    <string name="pop_music_answer6">Katy Perry</string>
+    <string name="pop_music_answer7">Rihanna</string>
+    <string name="pop_music_answer8">Adele</string>
+    <string name="pop_music_answer9">Coldplay</string>
+    <string name="pop_music_answer10">The Beatles</string>
+    <string name="pop_music_answer11">Radiohead</string>
+    <string name="pop_music_answer12">Queen</string>
+    <string name="pop_music_answer13">Whitney Houston</string>
+    <string name="pop_music_answer14">Mariah Carey</string>
+    <string name="pop_music_answer15">Celine Dion</string>
+    <string name="pop_music_answer16">Madonna</string>
+    <string name="english_question3">Which of the following is a pronoun?</string>
+    <string name="english_question4">What is the plural form of \'child\'?</string>
+    <string name="spain_question1">How many letters are there in the Spanish alphabet?</string>
+    <string name="spain_question2">Which verb in Spanish means \'to be\'?</string>
+    <string name="spain_question3">What is the English translation for \'hola\'?</string>
+    <string name="spain_question4">Which is the largest Spanish-speaking country in the world by population?</string>
+    <string name="art_sculpture_question3">What is the painting technique that uses oil paints?</string>
+    <string name="art_sculpture_question4">Who is famous for his surrealist works, including \'The Persistence of Memory\'?</string>
+    <string name="sociology_question3">Which theory in sociology emphasizes the importance of symbols, language, and non-verbal communication in understanding human behavior and society?</string>
+    <string name="sociology_question4">What term describes the process by which individuals and groups change each other and how society changes individuals and groups?</string>
+    <string name="art_paiting_question1">Who is the author of the painting \'Mona Lisa\'?</string>
+    <string name="art_paiting_question2">Which painting style is characterized by bright colors and the reflection of light?</string>
+    <string name="art_paiting_question3">What is the painting technique that uses oil paints?</string>
+    <string name="art_paiting_question4">Who is famous for his surrealist works, including \'The Persistence of Memory\'?</string>
+    <string name="art_sculpture_question1">Who is the author of the painting \'Mona Lisa\'?</string>
+    <string name="economic_question1">What is the term for the study of how individuals and societies allocate their limited resources to satisfy their unlimited wants?</string>
+    <string name="economic_question2">Who is often regarded as the father of modern economics and is known for his book \'The Wealth of Nations\'?</string>
+    <string name="economic_question3">Which economic system relies on private ownership of the means of production and free-market competition?</string>
+    <string name="economic_question4">What is the term for the total value of all goods and services produced by a country in a given period?</string>
+    <string name="world_war_question1">Which event is often considered the catalyst for the start of World War I?</string>
+    <string name="world_war_question2">During which years did World War II take place?</string>
+    <string name="world_war_question3">What term is commonly used to describe the economic and political tensions between the United States and the Soviet Union during the second half of the 20th century?</string>
+    <string name="world_war_question4">In which year did Germany officially reunify following the end of the Cold War?</string>
+    <string name="english_answer3">Receive</string>
+    <string name="english_answer4">Receiv</string>
+
+
+
+
+
+</resources>
